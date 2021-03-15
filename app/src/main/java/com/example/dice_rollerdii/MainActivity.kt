@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
     private fun rollDice() {
         //Toast.makeText( this, "button clicked", Toast.LENGTH_SHORT) .show()
         //chaining call
+        //this is a comment
 
         val randomInt = (1..6).random()
 
